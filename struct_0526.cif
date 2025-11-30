@@ -1,0 +1,29 @@
+data_image525
+_chemical_formula_structural       OBaTiO
+_chemical_formula_sum              "O2 Ba1 Ti1"
+_cell_length_a       4.0550545825523265
+_cell_length_b       4.038645308852875
+_cell_length_c       4.051626682281494
+_cell_angle_alpha    89.99179944726677
+_cell_angle_beta     89.93894744101308
+_cell_angle_gamma    89.89676418871048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7020384669303894  0.3254774808883667  0.7238094210624695  1.0000
+  Ba  Ba1       1.0  0.20175324380397797  0.8252899646759034  0.723731517791748  1.0000
+  Ti  Ti1       1.0  0.7008024454116821  0.325899213552475  0.2238519936800003  1.0000
+  O   O2        1.0  0.7018852233886719  0.8249508142471315  0.22364866733551025  1.0000
