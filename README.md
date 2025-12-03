@@ -21,7 +21,7 @@ Brendon Jaeger: Contributed to writing the project design proposal, created and 
 This repository contains the complete code and all input and output files for Inverse Design and Experimental Validation of the Ba-Ti-O System. Using Microsoft Research’s MatterGen generative model and MatterSim relaxation engine, we generated and relaxed 800 crystal structures and validated 134 BaTiO3 structures against experimental and DFT references from the Crystallography Open Database (COD). 
 
 ## Repository Structure
-508-Final-Project-Group-1/\
+508-Final-Project-Group-1/ \
 ├── README.md                          # This file\
 ├── notebooks/\
 │   ├── 01_MatterGen_Generation.ipynb  # Structure generation pipeline\
@@ -54,7 +54,7 @@ Validating geometric accuracy against experimental COD references\
 Achieving at least 65% validation rate for verifiable structures
 
 ### Key Results:
-Generated: \800 structures in Ba-Ti-O chemical system\
+Generated: \ 800 structures in Ba-Ti-O chemical system\
 134 structures matched BaTiO3 target stoichiometry\
 57 structures matched COD references\
 7 exact\
