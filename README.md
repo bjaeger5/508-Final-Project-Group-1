@@ -81,7 +81,7 @@ Google Colab account for notebook execution\
 
 ### Clone this repository
 
-git clone https://github.com/bjaeger5/508-Final-Project-Group-1.git\
+git clone https://github.com/bjaeger5/508-Final-Project-Group-1.git \
 cd 508-Final-Project-Group-1\
 ### Install dependencies\
 pip install -r requirements.txt\
