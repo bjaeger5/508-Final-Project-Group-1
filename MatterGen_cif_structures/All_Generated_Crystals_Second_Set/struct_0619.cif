@@ -1,0 +1,29 @@
+data_image618
+_chemical_formula_structural       O3Ba
+_chemical_formula_sum              "O3 Ba1"
+_cell_length_a       3.9303485222639707
+_cell_length_b       3.926855974999694
+_cell_length_c       6.114266872406006
+_cell_angle_alpha    71.20381928259181
+_cell_angle_beta     71.06634176424004
+_cell_angle_gamma    59.97736492880621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.023773014545440674  0.43616211414337164  0.0025935173034667787  1.0000
+  O   O2        1.0  0.9164385795593262  0.3279635310173035  0.32217863202095026  1.0000
+  O   O3        1.0  0.8105354905128479  0.2215671241283417  0.6390451192855835  1.0000
+  Ba  Ba1       1.0  0.41666164994239807  0.8284121155738831  0.8221548199653625  1.0000

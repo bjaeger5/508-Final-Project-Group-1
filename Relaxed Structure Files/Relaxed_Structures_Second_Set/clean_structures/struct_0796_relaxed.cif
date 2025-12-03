@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BaTiOTiO2BaTi
+_chemical_formula_sum              "Ba2 Ti3 O3"
+_cell_length_a       4.299539157815324
+_cell_length_b       4.3270300466253415
+_cell_length_c       8.549466133117676
+_cell_angle_alpha    89.95566774427468
+_cell_angle_beta     89.98976405091375
+_cell_angle_gamma    89.95395336954485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.007711059037856183  0.803715016353285  0.2568538891080913  1.0000
+  Ti  Ti1       1.0  0.1995341219392035  0.5374328821764628  0.6185517390478823  1.0000
+  O   O1        1.0  0.7963942656078412  0.8482328371565755  0.9427277057440859  1.0000
+  Ti  Ti2       1.0  0.6097705975485767  0.2665854352795827  0.4793910236737754  1.0000
+  O   O2        1.0  0.5825375392588699  0.2991609363656895  0.2584613383411046  1.0000
+  O   O3        1.0  0.5464210400118974  0.7988626236715147  0.5013843641784116  1.0000
+  Ba  Ba2       1.0  0.4014518575429162  0.3279554135322617  0.9670123797294152  1.0000
+  Ti  Ti3       1.0  0.7703324742142671  0.865248466324347  0.7222155697781704  1.0000

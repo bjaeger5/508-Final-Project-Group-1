@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       BaO2
+_chemical_formula_sum              "Ba1 O2"
+_cell_length_a       4.212091924903793
+_cell_length_b       4.205377549700853
+_cell_length_c       4.218630790710449
+_cell_angle_alpha    112.0906859118311
+_cell_angle_beta     115.23722987596666
+_cell_angle_gamma    101.49699932830372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.24618694946898978  0.0325164245133577  0.2301040488691687  1.0000
+  O   O1        1.0  0.7462385006962585  0.6921544231949631  0.3903751729919898  1.0000
+  O   O2        1.0  0.7461793933515959  0.37136963598388684  0.0689591063711288  1.0000

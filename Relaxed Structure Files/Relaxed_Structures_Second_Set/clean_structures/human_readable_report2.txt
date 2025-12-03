@@ -1,0 +1,35 @@
+Reference comparison report
+===========================
+
+Generated folder: /Users/becca/Documents/All_CIF_Outputs/All_Generated_Crystals/Relaxed_Structures_Second_Set/clean_structures
+Reference folder: /Users/becca/Documents/All_CIF_Outputs/COD Validation
+
+Parameters: LATTICE_TOL=10.0%, ANGLE_TOL=6.0 deg, VOLUME_TOL=18.0%
+
+Summary counts:
+  unique: 715
+  near: 52
+  similar: 8
+  exact: 7
+
+Top matched examples (first 20):
+ - struct_0038_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.011277777766785773, best_rmsd_ref=9014743.cif)
+ - struct_0070_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.02511146689244962, best_rmsd_ref=9014230.cif)
+ - struct_0091_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.013012912307116669, best_rmsd_ref=9014743.cif)
+ - struct_0105_relaxed.cif -> mp-1076932.cif (level=near, best_rmsd=nan, best_rmsd_ref=None)
+ - struct_0107_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.024797309390570465, best_rmsd_ref=9014230.cif)
+ - struct_0113_relaxed.cif -> 9016638.cif (level=near, best_rmsd=0.05505655259184963, best_rmsd_ref=9016084.cif)
+ - struct_0120_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.02397631659656503, best_rmsd_ref=1513252.cif)
+ - struct_0125_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.024785238187970404, best_rmsd_ref=9014230.cif)
+ - struct_0137_relaxed.cif -> 9015715.cif (level=near, best_rmsd=0.04597561485574147, best_rmsd_ref=9016084.cif)
+ - struct_0143_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.011892225543711166, best_rmsd_ref=9014743.cif)
+ - struct_0152_relaxed.cif -> 9016638.cif (level=similar, best_rmsd=0.06980666958147959, best_rmsd_ref=9016084.cif)
+ - struct_0167_relaxed.cif -> 9015715.cif (level=near, best_rmsd=0.0487152885230929, best_rmsd_ref=9016084.cif)
+ - struct_0168_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.011043370848153595, best_rmsd_ref=9014743.cif)
+ - struct_0169_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.012041831927015896, best_rmsd_ref=9014743.cif)
+ - struct_0171_relaxed.cif -> 9016638.cif (level=near, best_rmsd=0.06172802555178109, best_rmsd_ref=9016084.cif)
+ - struct_0184_relaxed.cif -> 9015715.cif (level=near, best_rmsd=0.04216775375169577, best_rmsd_ref=9016084.cif)
+ - struct_0185_relaxed.cif -> 9015616.cif (level=exact, best_rmsd=0.014192688805266073, best_rmsd_ref=9015616.cif)
+ - struct_0194_relaxed.cif -> 9016638.cif (level=similar, best_rmsd=0.07856916417051162, best_rmsd_ref=9016084.cif)
+ - struct_0197_relaxed.cif -> 9015715.cif (level=near, best_rmsd=0.045395846966313, best_rmsd_ref=9016084.cif)
+ - struct_0198_relaxed.cif -> 1542189.cif (level=near, best_rmsd=0.014205241575425825, best_rmsd_ref=1513252.cif)
