@@ -1,7 +1,11 @@
 Inverse Design and Experimental Validation in the Ba-Ti-O System Using MatterGen and MatterSim
+
 Colette Abadie, Rebecca Gracia, Hongrui Zhang, Brendon Jaeger
+
 CH752 Advanced Topics in Chemical Physics/ENGMS508 Computational Material Science
+
 Instructor: James Chapman
+
 December 3rd, 2025
 
 Author Contributions
