@@ -43,7 +43,7 @@ This repository contains the complete code and all input and output files for In
 │   ├── Final_Document.pdf          	# Complete written report\
 │   ├── Project_Proposal.pdf          	# Initial design proposal\
 │   └── Presentation.pdf             	# Final presentation slides\
-└── requirements.txt                  	# Python package dependencies\
+└── requirements.txt                  	# Python package dependencies
 
 ## Project Summary
 ### Objective:
@@ -51,7 +51,7 @@ Evaluate the effectiveness of MatterGen and MatterSim for inverse design of stab
 Generating 800 Ba-Ti-O structures with MatterGen\
 Relaxing structures to local energy minima with MatterGen\
 Validating geometric accuracy against experimental COD references\
-Achieving at least 65% validation rate for verifiable structures\
+Achieving at least 65% validation rate for verifiable structures
 
 ### Key Results:
 Generated: \800 structures in Ba-Ti-O chemical system\
@@ -61,30 +61,30 @@ Generated: \800 structures in Ba-Ti-O chemical system\
 48 near\
 2 similar\
 Identified 77 potentially novel phases with no COD match\
-Exceeded 65% validation goal\
+Exceeded 65% validation goal
 
 ## Computational Performance:
 Platform: Google Colab with NVIDIA T4 GPU\
 Generation Time: ~1 minute per structure (MatterGen)\
 Relaxation Time: ~15 seconds per structure (MatterSim)\
 Platform: Visual Studio Code with CPU\
-Validation Time: ~1 second per structure (7min for 800 structures)\
+Validation Time: ~1 second per structure (7min for 800 structures)
 
 ## Installation and Setup
-Prerequisites\
+### Prerequisites
 
 Python 3.10+\
 CUDA-capable GPU\
-Google Colab account for notebook execution\
+Google Colab account for notebook execution
 
 ## Environment Setup
 
 ### Clone this repository
 
 git clone https://github.com/bjaeger5/508-Final-Project-Group-1.git \
-cd 508-Final-Project-Group-1\
-### Install dependencies\
-pip install -r requirements.txt\
+cd 508-Final-Project-Group-1
+### Install dependencies
+pip install -r requirements.txt
 
 ## Key Dependencies
 
