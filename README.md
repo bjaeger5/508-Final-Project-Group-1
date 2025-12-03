@@ -54,7 +54,8 @@ Validating geometric accuracy against experimental COD references\
 Achieving at least 65% validation rate for verifiable structures
 
 ### Key Results:
-Generated: \ 800 structures in Ba-Ti-O chemical system\
+Generated: \
+800 structures in Ba-Ti-O chemical system\
 134 structures matched BaTiO3 target stoichiometry\
 57 structures matched COD references\
 7 exact\
